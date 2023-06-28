@@ -1,0 +1,4 @@
+name,price,count
+iPhone,1000,3
+iPad,2000,1
+Airpod,200,10
