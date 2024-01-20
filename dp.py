@@ -352,5 +352,3 @@ if __name__ == "__main__":
     print(canConstruct('abcdef', ['ab', 'abc', 'cd', 'def', 'abcd']))
     print("canConstruct(skateboard, [bo, rd, ate, t, ska, sk, boar]):")
     print(canConstruct('skateboard', ['bo', 'rd', 'ate', 't', 'ska', 'sk', 'boar']))
-    # a = [1,2,3,4,5]
-    # print(a[-2:])
